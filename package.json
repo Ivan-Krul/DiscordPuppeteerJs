@@ -1,0 +1,16 @@
+{
+  "name": "discordpuppeteerjs",
+  "version": "1.0.0",
+  "description": "bot for my discord server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ivan-Krul",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
